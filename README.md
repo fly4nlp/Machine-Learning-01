@@ -1,2 +1,2 @@
 # Machine-Learning-01
-THIS IS THE FIRST PROJECT OF MACHINE LEARNING
+This is the first machine learning project which I will use it mainly to test.
